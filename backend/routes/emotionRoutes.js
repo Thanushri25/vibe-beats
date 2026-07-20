@@ -23,6 +23,8 @@ router.post("/", async (req, res) => {
 
     const playlist = await Song.findOne({ mood });
 
+    console.log("Playlist found:", playlist);
+
     res.json({
       mood,
       playlist
