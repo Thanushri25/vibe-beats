@@ -78,9 +78,17 @@ VibeBeats
 
 ![Mood Detection](screenshots/mood.png)
 
+### Admin Login
+
+![Admin Login](screenshots/admin_login.png)
+
 ### Admin Dashboard
 
-![Admin Dashboard](screenshots/admin_login.png)
+![Admin Dashboard](screenshots/admin_dashboard.png)
+
+### Admin Dashboard2
+
+![Admin Dashboard2](screenshots/admin.png)
 
 ---
 
