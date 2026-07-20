@@ -80,7 +80,7 @@ VibeBeats
 
 ### Admin Dashboard
 
-![Admin Dashboard](screenshots/adminlogin.png)
+![Admin Dashboard](screenshots/admin login.png)
 
 ---
 
